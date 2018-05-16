@@ -1,0 +1,80 @@
+.heading {
+    font-size: 22px;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+}
+.main {
+    margin: 120px;
+    
+}
+
+.margin_btn {
+    margin-top: 2%;
+}
+
+.btn_xs {
+    color:#fff;
+    background-color:0D44D8;
+    width: 6%;
+    height: 25px;
+    font-size: 10px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    
+}
+
+.btn_sm {
+    color:#fff;
+    background-color:0D44D8;
+    width: 7%;
+    height: 25px;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 2px;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+   
+}
+
+.btn_md {
+    padding-top: 20%;
+    color:#fff;
+    background-color: 0D44D8;
+    width: 10%;
+    height: 25px;
+    font-size: 13px;
+    padding-top: 5px;
+    text-align: center;
+    border-radius: 2px;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    
+}
+
+.btn_lg {
+    padding-top: 5%;
+    color:#fff;
+    background-color: 0D44D8;
+    width: 13%;
+    height: 25px;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 3px; 
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+}
+
+.btn_xl {
+    color:#fff;
+    background-color: 0D44D8;
+    width: 17%;
+    height: 25px;
+    font-size: 19px;
+    text-align: center;
+    padding-top: 7px;
+    font-family: 'Roboto';
+    border-radius: 2px;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+}
