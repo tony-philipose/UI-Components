@@ -1,0 +1,34 @@
+.heading {
+    font-size: 22px;
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+}
+
+.main {
+    margin: 120px;
+    
+}
+
+.margin {
+    margin-top: 5%;
+}
+
+.search {
+    width: 270px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+}
+
+button {
+    float: none;
+    width: 42px;
+    height: 45px;
+    border: 2px solid #ccc
+    border-radious: 2px;
+  }
